@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zyleq</h1>
 <h3 align="center">I'm a learning developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=proxinity" alt="proxinity" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
