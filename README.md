@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Discord.JS**
 
-- 🤝 I’m looking for help with *Discord.JS and JavaScript**
+- 🤝 I’m looking for help with **Nothing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/proxinity?tab=repositories](https://github.com/proxinity?tab=repositories)
 
