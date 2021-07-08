@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zyleq</h1>
 <h3 align="center">I'm a learning developer</h3>
 
-- 🌱 I’m currently learning **JavaScript and Node.JS**
+- 🌱 I’m currently learning **JavaScript and Discord.JS**
 
-- 🤝 I’m looking for help with **HTML and JavaScript**
+- 🤝 I’m looking for help with *Discord.JS and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/proxinity?tab=repositories](https://github.com/proxinity?tab=repositories)
 
