@@ -25,9 +25,13 @@ I'm a newbie to JavaScript and just development in general.
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
 
 
-### <h3> 💻 &nbsp;Some Stats (Public)</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyleqsta)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyleqsta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h3> 💻 &nbsp;Some Stats (Public)</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zyleqsta" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyleqsta&layout=compact" />
+</a>
 
 
 <h3> 🤝🏻 &nbsp;Socials</h3>
