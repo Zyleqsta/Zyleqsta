@@ -20,7 +20,7 @@ I'm a newbie to JavaScript and just development in general.
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![NPM](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=npm)
+![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=npm)
 - 🔧 &nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
 
