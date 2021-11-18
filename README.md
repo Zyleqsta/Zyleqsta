@@ -1,7 +1,7 @@
 
 
 <h1>  Hi There, I'm Zyleq <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
-<p align="left">  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zyleqsta" alt="Zyleqsta" /></p>
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at SSIPMT Raipur 👨‍🎓
 
