@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am hoping to get into Discord bot development.**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Zyleqsta&theme=<THEME_NAME>" />
 
 
 <h3 align="left">Languages and Tools:</h3>
