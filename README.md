@@ -33,7 +33,7 @@ I'm a newbie to JavaScript and just development in general.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zyleqsta" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyleqsta&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyleqsta" />
 </a>
 
 
