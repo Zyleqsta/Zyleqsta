@@ -26,7 +26,7 @@ I'm a newbie to JavaScript and just development in general.
 
 
 ### Some Stats (Public)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyleqsta)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
 
