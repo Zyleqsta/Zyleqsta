@@ -28,7 +28,7 @@ I'm a newbie to JavaScript and just development in general.
 ### Some Stats (Public)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyleqsta)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raghav-byte/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
@@ -37,7 +37,3 @@ I'm a newbie to JavaScript and just development in general.
 <a href="https://instagram.com/raghav_shukl" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
-
-⭐️ From [Raghav-byte](https://github.com/Raghav-byte)
-
-![](https://hit.yhype.me/github/profile?user_id=58404080)
