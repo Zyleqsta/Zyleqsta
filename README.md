@@ -3,14 +3,15 @@
 <h1>  Hi There, I'm Zyleq <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zyleqsta" alt="Zyleqsta" /></p>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at SSIPMT Raipur 👨‍🎓
+I'm a newbie to JavaScript and just development in general, Currently in highschool. 👨‍🎓
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🤔 &nbsp; Exploring JavaScript development.
+- 🌱 &nbsp; Learning more about Javascript, Discord.JS and HTML.
+- ✍️ &nbsp; Pursuing Discord bot development.
+
+<h3> 🛠 &nbsp;Tech</h3>
 
 - 💻 &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&link=https://www.javascript.com/)
