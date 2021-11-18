@@ -5,6 +5,11 @@
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at SSIPMT Raipur 👨‍🎓
 
+- 🔧 &nbsp;
+  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
+  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
 - 🔭 I’m currently working on taking rest  
 - 🌱 I’m currently learning about Data Structures , Unix System 
 - 👯 I’m looking to collaborate on Cpp projects and Basic Web Dev stuff
