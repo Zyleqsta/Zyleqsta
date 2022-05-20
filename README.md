@@ -3,12 +3,11 @@
 <h1>  Hi There, I'm Zyleq <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zyleqsta" alt="Zyleqsta" /></p>
 
-I'm a newbie to JavaScript and just development in general.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring JavaScript development.
-- 🌱 &nbsp; Learning more about Javascript, Discord.JS and HTML.
+- 🤔 &nbsp; Exploring place development.
+- 🌱 &nbsp; Learning more about.
 - ✍️ &nbsp; Pursuing Discord bot development.
 
 <h3> 🛠 &nbsp;Tech</h3>
