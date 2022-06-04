@@ -1,18 +1,14 @@
 
 
-<h1>  Hi There, I'm Zyleq <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1>  Hi There, I'm Zyleq </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zyleqsta" alt="Zyleqsta" /></p>
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring place development.
-- 🌱 &nbsp; Learning more about.
-- ✍️ &nbsp; Pursuing Discord bot development.
 
 <h3> 🛠 &nbsp;Tech</h3>
 
 - 💻 &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
